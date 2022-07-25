@@ -7,6 +7,7 @@ https://cloud.hashicorp.com/products/terraform
 
 
 Variables to create 
-```AWS_SECRET_ACCESS_KEY
+```
+AWS_SECRET_ACCESS_KEY
 AWS_ACCESS_KEY_ID
 ```
