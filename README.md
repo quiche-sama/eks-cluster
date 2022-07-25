@@ -1,4 +1,6 @@
 # Learn Terraform - Provision an EKS Cluster
 
-This repo is a companion repo to the [Provision an EKS Cluster learn guide](https://learn.hashicorp.com/terraform/kubernetes/provision-eks-cluster), containing
-Terraform configuration files to provision an EKS cluster on AWS.
+This repo has been kindly taken from the Hashicorp labs
+https://learn.hashicorp.com/terraform/kubernetes/provision-eks
+Don't forget to regenerate the workspace 
+https://cloud.hashicorp.com/products/terraform
